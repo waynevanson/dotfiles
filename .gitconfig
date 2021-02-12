@@ -1,3 +1,13 @@
 [user]
 	name = Wayne Van Son
 	email = waynevanson@gmail.com
+[alias]
+	c = commit
+	ch = checkout
+	a = add
+	st = status
+	br = branch
+	global = config --global
+	g = config --global
+	pr = pull --rebase
+	last = log -1 HEAD
