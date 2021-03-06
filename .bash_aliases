@@ -9,3 +9,5 @@ alias code="code-oss"
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias d="dotfiles"
 dotfiles config status.showUntrackedFiles no
+
+alias clip="xclip -selection clipboard"
