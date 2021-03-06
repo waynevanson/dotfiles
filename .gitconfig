@@ -11,3 +11,5 @@
 	g = config --global
 	pr = pull --rebase
 	last = log -1 HEAD
+[init]
+	defaultBranch = main
