@@ -10,5 +10,6 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "window.titleBarStyle": "custom",
   "explorer.confirmDelete": false,
-  "git.autofetch": true
+  "git.autofetch": true,
+  "terminal.explorerKind": "external",
 }
