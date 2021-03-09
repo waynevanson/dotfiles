@@ -14,3 +14,5 @@
 	cm = commit -m
 [init]
 	defaultBranch = main
+[core]
+	editor = nvim
