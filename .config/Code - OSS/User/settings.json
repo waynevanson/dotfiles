@@ -12,4 +12,5 @@
   "explorer.confirmDelete": false,
   "git.autofetch": true,
   "terminal.explorerKind": "external",
+  "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim"
 }
