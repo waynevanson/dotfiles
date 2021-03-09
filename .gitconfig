@@ -11,5 +11,6 @@
 	g = config --global
 	pr = pull --rebase
 	last = log -1 HEAD
+	cm = commit -m
 [init]
 	defaultBranch = main
