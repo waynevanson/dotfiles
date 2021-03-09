@@ -2,3 +2,7 @@
 
 # Get the aliases and functions
 [ -f $HOME/.bashrc ] && . $HOME/.bashrc
+
+export VISUAL="nvim"
+export EDITOR="nvim"
+
