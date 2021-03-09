@@ -1,5 +1,8 @@
+# common "ls" shortcuts
+alias l='ls'
 alias ls='ls --color=auto'
-alias la='ls -lA'
+alias la='ls -la'
+alias lA='ls -lA'
 alias ll='ls -l'
 
 
